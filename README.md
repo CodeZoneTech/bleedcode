@@ -1,7 +1,6 @@
-# bleedcode
+![logo](./Logo.png)
+This coding competition is organized by **CODEZONE** & **/bline.**
 
-Code while suffocating
+We started this coding Competition to develop our junior intake's Problem Solving Knowledge and to test their limits and stress handling when hard times come.
 
-Organized by CODEZONE & /bline.
-
-In hackerrank platform | Code with any language platform support | 3 hours
+This repo contains a collection of solutions for the past bleedcode competitions in C++, Java and Python.
